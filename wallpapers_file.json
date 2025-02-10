@@ -3,7 +3,7 @@
     "name": "Webp Image",
     "author": "unknown",
     "url": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1200",
-    "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+    "thumbnail": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1200",
     "dimensions": "3200x2560",
     "copyright": "Unknown",
     "collections": "landscapes"
@@ -147,14 +147,6 @@
   },
   {
     "name": "Neom from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/wallpapers/neom.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
-  },
-  {
-    "name": "Neom ",
     "author": "unsplash",
     "url": "file:///android_asset/wallpapers/neom.jpg",
     "dimensions": "3200x2560",
