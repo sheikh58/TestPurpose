@@ -151,5 +151,11 @@
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "assets"
+	},
+	{
+		"name": "ShotB",
+		"author": "Someone else",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+		"collections": "featured,landscapes,people"
 	}
 ]
