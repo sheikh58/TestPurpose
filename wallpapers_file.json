@@ -7,7 +7,7 @@
 	{
 		"name": "My Image from Assets",
 		"author": "unsplash",
-		"url": "file:///android_asset/wallpapers/first_image.jpg",
+		"url": "file:///android_asset/first_image.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "assets"
