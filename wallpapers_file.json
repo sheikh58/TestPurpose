@@ -3,13 +3,5 @@
 		"author": "Someone",
 		"url": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg",
 		"collections": "featured,landscapes,people"
-},
-	{
-		"name": "My Image from the Assets",
-		"author": "unsplash",
-		"url": "file:///android_asset/first_image.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "assets"
-	}
+}
 ]
