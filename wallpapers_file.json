@@ -5,7 +5,7 @@
 		"collections": "featured,landscapes,people"
 },
 	{
-		"name": "My Image from Assets",
+		"name": "My Image from the Assets",
 		"author": "unsplash",
 		"url": "file:///android_asset/first_image.jpg",
 		"dimensions": "3200x2560",
